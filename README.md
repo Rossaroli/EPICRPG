@@ -20,7 +20,7 @@ We reserve the right to revoke temporarily or permanently your access to the Ser
 
 # Privacy Policy for EPIC RPG
 
-This privacy policy informs you of our policies about the information collected when you use the Service.
+This Privacy Policy informs you of our policies about the information collected when you use the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ### The information we collect
 
