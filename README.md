@@ -34,7 +34,7 @@ The information collected includes:
 
 This information is used for the functionality of the Bot, such as in-game leaderboards and storing the game progress, the information is securily saved and protected.
 
-Discord usernames and discriminators may be displayed in leaderboards and other functions of the bot, which all users have access to.
+Discord usernames and discriminators may be displayed in leaderboards and other features of the Bot, which all users have access to.
 This collected information is not shared with anyone else.
 
 ### Contact
