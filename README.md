@@ -2,7 +2,7 @@ Last modified 30th August 2022.
 
 # Terms of Service of EPIC RPG
 
-EPIC RPG team ("us", "we" or "our") owns and operates EPIC RPG (the "Bot" or "Service"). Please read these Terms of Service (from now on refered as "Terms") before using the Service.
+EPIC RPG team ("us", "we" or "our") owns and operates EPIC RPG (the "Bot" or "Service"). Please read these Terms of Service (the "Terms") before using the Service.
 
 By using the Service, you agree to these Terms. If you disagree with any part of the terms then you do not have permission to use the Service.
 
